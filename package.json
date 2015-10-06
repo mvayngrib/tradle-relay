@@ -1,0 +1,21 @@
+{
+  "author": "Mark Vayngrib <mark.vayngrib@lablz.com> (http://github.com/mvayngrib)",
+  "bugs": {
+    "url": "https://github.com/mvayngrib/tradle-relay/issues"
+  },
+  "description": "[![NPM](https://nodei.co/npm/tradle-relay.png)](https://nodei.co/npm/tradle-relay/)",
+  "devDependencies": {
+  },
+  "homepage": "https://github.com/mvayngrib/tradle-relay",
+  "license": "MIT",
+  "main": "index.js",
+  "name": "tradle-relay",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/mvayngrib/tradle-relay.git"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "version": "1.0.0"
+}
